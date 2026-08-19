@@ -2,11 +2,16 @@
 ![My Qiita contributions](https://qiita-badge.apiapi.app/s/fuwamaki/contributions.svg)
 ![My Qiita followers](https://qiita-badge.apiapi.app/s/fuwamaki/followers.svg)
 
-<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=fuwamaki&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuwamaki&theme=dark" />
-</a>
+<p>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=fuwamaki&show_icons=true&theme=github_dark_dimmed"
+    alt="fuwamaki's GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=fuwamaki&layout=compact&langs_count=8&theme=github_dark_dimmed"
+    alt="Top Languages"
+  />
+</p>
